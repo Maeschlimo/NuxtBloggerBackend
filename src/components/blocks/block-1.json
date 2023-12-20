@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blocks_block_1s",
+  "info": {
+    "displayName": "Block 1",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
